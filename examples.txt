@@ -1,0 +1,265 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"j’suis bleu t’es le sang"
+j’suis bleu t’es le sang 
+ ça va pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+
+----- Diversity:0.4
+----- Generating with seed:
+"j’suis bleu t’es le sang"
+j’suis bleu t’es le sang 
+ et tu veux pas la folle 
+ jai assez donné 
+ et tu fais le fous 
+ tu fais des billets billets billets billets billets billets billets billets billets billets billets billets billets 
+ il mfaut des billets billets 
+ il mfaut des billets billets billets billets billets billets
+----- Diversity:0.5
+----- Generating with seed:
+"j’suis bleu t’es le sang"
+j’suis bleu t’es le sang 
+ le sang allez un ouh 
+ allez bon débarras 
+ allez tout allez allez allez oh allez 
+ allez bon débarras allez allez 
+ allez allez oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+----- Diversity:0.6
+----- Generating with seed:
+"j’suis bleu t’es le sang"
+j’suis bleu t’es le sang 
+ le sang on est en dois 
+ on est là posés à la place 
+ on est ma belle ma vie 
+ je suis comme toi 
+ on crois faut que jdanse et que et que je me sens pas 
+ tes pas pas tes donné 
+ tu me
+----- Diversity:0.7
+----- Generating with seed:
+"j’suis bleu t’es le sang"
+j’suis bleu t’es le sang 
+ ça va aller 
+ jvais pas on te fait marre 
+ sur les jeunes de les jeunes de la vie 
+ et hein et je veux pas 
+ je plane je sens pas 
+ jen ai vu à lannée 
+ si tu connais pas le cool au dit cest
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"si je prend son cœur"
+si je prend son cœur je suis dans mon bolide 
+ qui trouve ça torride 
+ oh laissezmoi jsuis dans ma folie 
+ trahir son pote jtrouve pas ça joli 
+ jme soule jm’aère jpleure dans mon bolide 
+ qui trouve ça torride 
+ oh laissezmoi jsuis dans ma folie 
+ trahir son pote jtrouve
+----- Diversity:0.4
+----- Generating with seed:
+"si je prend son cœur"
+si je prend son cœur je suis dans mon amour 
+ jsuis à louest 
+ jfume la beuh jsuis à louest 
+ jfume la beuh jsuis à louest 
+ jfume la beuh jsuis à louest 
+ jfume la beuh jsuis à louest 
+ jfume la beuh jsuis à louest 
+ jfume la beuh jsuis à
+----- Diversity:0.5
+----- Generating with seed:
+"si je prend son cœur"
+si je prend son cœur je sais pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je peux pas 
+ je peux pas je
+----- Diversity:0.6
+----- Generating with seed:
+"si je prend son cœur"
+si je prend son cœur je suis en valeur 
+ mais noublie pas tes valeurs 
+ vasy vasy monte en ghetto 
+ ça vient de faire des tours 
+ ça fait des tours dans le dos 
+ il fait mis la plaquette 
+ faut pas sorti la zone 
+ tes pas le seul tes pas
+----- Diversity:0.7
+----- Generating with seed:
+"si je prend son cœur"
+si je prend son cœur on va sans bat 
+ on me laisse se faire 
+ jme vois pas briller non non 
+ jme vois pas briller non jme vois pas briller briller 
+ jme vois pas briller jme vois pas briller briller 
+ jme vois pas briller non jme vois pas briller briller 
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"jai un coup davance si"
+jai un coup davance si tu vois pas briller non 
+ jme vois pas briller non jme vois pas briller briller 
+ jme vois pas briller non jme vois pas briller briller 
+ jme vois pas briller non jme vois pas briller briller 
+ jme vois pas briller non jme vois pas briller briller 
+
+----- Diversity:0.4
+----- Generating with seed:
+"jai un coup davance si"
+jai un coup davance si tu sais que tu me vois tu me vois tu vas pas loin 
+ tu as fait de toi mais tu vois que tu parles dans le dos elle a fait son aux sous avec la merde elle a fait des sous 
+ jai des potos dans le secteur qui
+----- Diversity:0.5
+----- Generating with seed:
+"jai un coup davance si"
+jai un coup davance si tu veux la tête on a des barres de la cité 
+ tu tes mis à boire comme tous les jeunes de la cité 
+ tu tes mis à boire comme tous les jeunes de la cité 
+ tas voulu refaire les grands tas voulu la honte 
+ tu cherches
+----- Diversity:0.6
+----- Generating with seed:
+"jai un coup davance si"
+jai un coup davance si tu vois qutu vois par moi tu vois que tu parles dans la honte 
+ tu fais poursuite fou dans la tête 
+ ya que des poto 
+ pourquoi tu veux qutu vois pour elle a ses pétasses 
+ ouais cest lacrizeomicmek 
+ ça mdégoûte dégoûte 
+ jvois des gens
+----- Diversity:0.7
+----- Generating with seed:
+"jai un coup davance si"
+jai un coup davance si tu as pas cool 
+ jsuis dans lgame comme un flash à croire 
+ c’est que ça mdégoûte 
+ que ça mdégoûte 
+ que ça mdégoûte 
+ que j’te veux que toi mama 
+ tes mes faire dans mon délire dur faut pas les gens si tes bizarre 
+ tu
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"men veulent jrepense à eux"
+men veulent jrepense à eux posé dans la boite sous la rue le matin elle pense à toi 
+ et la nuit elle rêve de toi 
+ tu vois pas elle est folle de toi ouais ouais ouais ouais 
+ ouais cest lavenir ouais 
+ lovni cest lavenir ouais 
+ lovni cest lavenir ouais 
+
+----- Diversity:0.4
+----- Generating with seed:
+"men veulent jrepense à eux"
+men veulent jrepense à eux posé dans le vent 
+ jai bien les potos dans la merde 
+ faut que jméloigne dici 
+ que j’emmène ma mère ouais ouais 
+ jai passé mon temps à voir mes potos dans la merde 
+ faut que jméloigne dici 
+ que j’emmène ma mère ouais ouais 
+ jai
+----- Diversity:0.5
+----- Generating with seed:
+"men veulent jrepense à eux"
+men veulent jrepense à eux posé dans la tess 
+ trop de frères en maison de moi 
+ jai vu des sous cassées dans la zone 
+ jvois les petits dans la merde 
+ faut que jméloigne dici 
+ que j’emmène ma mère ouais ouais 
+ jai passé mon temps à voir mes potos dans
+----- Diversity:0.6
+----- Generating with seed:
+"men veulent jrepense à eux"
+men veulent jrepense à eux posé dans la boite ah jme sens pas jle veux pas 
+ mais tes pas le seul 
+ aide ton prochain et le ciel est fou 
+ je vais t’oublier t’oublier 
+ avec jul on est venus tout plier 
+ j’vais t’oublier je vais toublier 
+ de nouveau quand tu
+----- Diversity:0.7
+----- Generating with seed:
+"men veulent jrepense à eux"
+men veulent jrepense à eux posé dans la vie elle a fini aux gens en jcache mes yeux mes yeux crier 
+ j’vais la ville à voir avec mes carnalitos 
+ c’est ça que ils font des gens se calcule pas 
+ je sais pas si jtaime je sais pas si je sais 
+ que
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"tu lui dis qutu dois"
+tu lui dis qutu dois passer 
+ je fais des billets billets billets billets 
+ pour sortir de mon ghetto 
+ plaque pliée pliée pliée pliée 
+ je me dois de crier crier crier crier 
+ l’état à cause de toi 
+ tu mas trahi je peux pas 
+ je peux pas je peux pas
+----- Diversity:0.4
+----- Generating with seed:
+"tu lui dis qutu dois"
+tu lui dis qutu dois passer 
+ tu fais des sous maintenant tu veux les gens que tu fais lgros 
+ tu as pas de boules en boules tu mfais le gros tu vas pas des fois je peux plus je peux pas 
+ je peux pas je peux pas 
+ je peux pas je
+----- Diversity:0.5
+----- Generating with seed:
+"tu lui dis qutu dois"
+tu lui dis qutu dois passer 
+ tes fier jai trop perdu tu crois qutu y crois pas tu vas pas toi mon cœur bat mama 
+ tes ma vie tes mon sang 
+ jferai tout pour toi mama 
+ eh yo mama eh yo mama 
+ eh yo mama eh yo mama 
+ eh
+----- Diversity:0.6
+----- Generating with seed:
+"tu lui dis qutu dois"
+tu lui dis qutu dois passer 
+ je fais des billets billets billets billets 
+ pour sortir de ma route 
+ jsuis au quartier jsuis comme jveux jécoute 
+ jveux juste faire ma vie 
+ je suis comme toi jfais des fous partout 
+ ya des ptits gantés 
+ jsuis fier dmon parcours 
+ jjoue
+----- Diversity:0.7
+----- Generating with seed:
+"tu lui dis qutu dois"
+tu lui dis qutu dois passer 
+ tu fais lmac dans ma tête tu veux pas viens 
+ viens den faire un sous ou de flash 
+ en gros il y a nada 
+ mais à faire quand tu vas pas mon pét 
+ si tu as oublié plus il fait le mal parce quil
+================================================================================
